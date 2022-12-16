@@ -75,4 +75,5 @@ public class Puppets {
                 ", showMasters=" + showMasters +
                 '}';
     }
+
 }
