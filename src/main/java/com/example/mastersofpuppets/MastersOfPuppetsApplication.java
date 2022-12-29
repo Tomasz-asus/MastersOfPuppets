@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MastersOfPuppetsApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(MastersOfPuppetsApplication.class, args);
+        System.out.println("Hi Docker !!!");
     }
 
 }
